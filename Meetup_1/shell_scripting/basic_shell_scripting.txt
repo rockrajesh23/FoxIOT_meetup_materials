@@ -9,4 +9,11 @@ ls # list command
 
 grep "phrase to search "
 
+#To find an extension
+
+find location  -name "*.jpg" 
+
+#To count lines
+
+wc -l
 

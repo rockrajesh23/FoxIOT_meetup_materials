@@ -1,0 +1,26 @@
+
+#fork a project
+
+git clone path
+
+#make a modification
+
+git add *
+
+#See status
+
+git status
+
+#see which branch your are in
+
+git branch
+
+#Commit your change
+
+git commit -m "description of the change"
+
+#Push your code
+
+git push origin branch
+
+

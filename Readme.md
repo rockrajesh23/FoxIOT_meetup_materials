@@ -16,3 +16,6 @@ Contains all the meetup course materials of all meetups.
 <li>3. Introduction to Docker and commands</li>
 </ul>
 </p>
+
+
+[![Join the chat at https://gitter.im/dvigneshwer/FoxIOT_meetup_materials](https://badges.gitter.im/dvigneshwer/FoxIOT_meetup_materials.svg)](https://gitter.im/dvigneshwer/FoxIOT_meetup_materials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

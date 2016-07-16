@@ -1,0 +1,31 @@
+Docker helps in shipping and deployment in a most efficient manner.
+
+How to use :
+
+* create a docker file with all your dependecies and software tar
+
+* build the docker image
+
+docker build -t image_name:version .
+
+* Once you have built it,
+
+docker images
+
+docker ps 
+
+docker ps -a
+
+docker ps $(docker ps -a -q -f status=exited)
+
+* start your docker image
+
+docker run -it image_name:version bash
+
+docker exec -it image_name:version bash
+
+cntrl +D to stop
+
+cntrl + P + Q to go out
+
+

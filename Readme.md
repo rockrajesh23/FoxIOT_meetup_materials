@@ -7,7 +7,7 @@
 <ul>
 <li>1. Introductions to git</li>
 <li>2. Introduction to shell scripting</li>
-<li>3. Introduction to Docker </li>
+<li>3. Introduction to Docker and commands</li>
 </ul>
 
 

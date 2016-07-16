@@ -1,0 +1,12 @@
+#basic shell scripting commands
+
+cd location #change directory
+mv location _1 new_location_1 #move
+
+ls # list command
+
+#search commands
+
+grep "phrase to search "
+
+

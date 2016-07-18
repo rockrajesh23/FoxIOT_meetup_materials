@@ -16,6 +16,10 @@ Contains all the meetup course materials.
 <li>2. Introduction to shell scripting</li>
 <li>3. Introduction to Docker and commands</li>
 </ul>
+<strong>Blogposts</strong>
+<ul>
+<li><a href="http://foxprasanth.github.io/events/2016/07/16/MozTN-IoTmeetup1/">P Prasanth</a></li>
+</ul>
 <strong>2nd Meetup : July 23 </strong>
 <br><br>
 <strong>Location : KGISL </strong>

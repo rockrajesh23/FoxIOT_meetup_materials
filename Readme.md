@@ -33,7 +33,7 @@ Contains all the meetup course materials.
 
 </p>
 <h1> Project List </h1>
-<ol>
+<ul>
 <li>Team 1 : Human Pose detection</li>
 <li>Team 2: Binary classifier to predict fighting position or not</li>
 <li>Team 3 : Defence move for the predicted step</li>
@@ -50,6 +50,6 @@ Contains all the meetup course materials.
 <li>Team 14 : Hal9000 (Just like Google home)</li>
 <li>Team 15 : detecting voices and seperation</li>
 <li>Team 16 : sentimental analysis of the voice</li>
-</ol>
+</ul>
 
 

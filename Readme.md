@@ -20,7 +20,7 @@ Contains all the meetup course materials.
 <ul>
 <li><a href="http://foxprasanth.github.io/events/2016/07/16/MozTN-IoTmeetup1/">P Prasanth</a></li>
 </ul>
-<strong>2nd Meetup : July 23 </strong>
+<strong>2nd Meetup : July 30 </strong>
 <br><br>
 <strong>Location : KGISL </strong>
 <br><br>
@@ -29,6 +29,10 @@ Contains all the meetup course materials.
 <li>1. Introductions to python and main libraries</li>
 <li>2. Introduction to C++ and main libraries</li>
 <li>3. Writing a python wrapper to a C++ program</li>
+</ul>
+<strong>Blogposts</strong>
+<ul>
+<li><a href="http://bit.ly/foxiot2">Sudharsan Rajendran's write on the second meetup</a></li>
 </ul>
 
 </p>

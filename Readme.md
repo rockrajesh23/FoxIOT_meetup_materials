@@ -32,5 +32,24 @@ Contains all the meetup course materials.
 </ul>
 
 </p>
+<h1> Project List </h1>
+<ul>
+<li>Team 1 : Human Pose detection.</li>
+<li>Team 2: Binary classifier to predict fighting position or not.</li>
+<li>Team 3 : Defence move for the predicted step.</li>
+<li>Team 4 : Object detection.</li>
+<li>Team 5: Predict whether human or not.</li>
+<li>Team 6 : Track humans.</li>
+<li>Team 7 : Face detection.</li>
+<li>Team 8: Sentimental analysis.</li>
+<li>Team 9 : Face recognition.</li>
+<li>Team 10 : Temp sensor monitoring.</li>
+<li>Team 11 : Pushing real time data to webap.</li>
+<li>Team 12: Air pollution monitoring.</li>
+<li>Team 13: Web app.</li>
+<li>Team 14 : Hal9000 (Just like Google home).</li>
+<li>Team 15 : Detecting voices and seperation.</li>
+<li>Team 16 : Sentimental analysis of the voice.</li>
+</ul>
 
 

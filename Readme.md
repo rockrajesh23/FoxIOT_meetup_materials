@@ -35,6 +35,19 @@ Contains all the meetup course materials.
 <li><a href="http://bit.ly/foxiot2">Sudharsan Rajendran's write on the second meetup</a></li>
 </ul>
 
+<strong>3rd Meetup : July 13 </strong>
+<br><br>
+<strong>Location : KGISL </strong>
+<br><br>
+<strong>Topics covered </strong>
+<ul>
+<li>1. Setting up the pi board</li>
+<li>2. LED expt</li>
+<li>3. Temperature Sensor expt</li>
+<li>4. Webapp - Dashboard
+ </li>
+</ul>
+
 </p>
 <h1> Project List </h1>
 <ul>

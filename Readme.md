@@ -35,17 +35,15 @@ Contains all the meetup course materials.
 <li><a href="http://bit.ly/foxiot2">Sudharsan Rajendran's write on the second meetup</a></li>
 </ul>
 
-<strong>3rd Meetup : July 13 </strong>
+<strong>3rd Meetup : October 1 </strong>
 <br><br>
-<strong>Location : KGISL </strong>
+<strong>Location : SNS College of Technology</strong>
 <br><br>
 <strong>Topics covered </strong>
 <ul>
-<li>1. Setting up the pi board</li>
-<li>2. LED expt</li>
-<li>3. Temperature Sensor expt</li>
-<li>4. Webapp - Dashboard
- </li>
+<li>1. Learning Rust Language</li>
+<li>2. Concepts of Image processing</li>
+<li>3. Python API</li>
 </ul>
 
 </p>

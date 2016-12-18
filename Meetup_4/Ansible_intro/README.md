@@ -41,6 +41,7 @@ sudo apt-get install ansible
 * numpy
 * beautifulsoup
 * Pillow
+* pygame
 
 ## Installation of pi modules 
 ~~~~
@@ -61,6 +62,9 @@ pip install beautifulsoup4
 
 # Pillow
 pip install Pillow
+
+# Pygame
+sudo apt-get install python-pygame
 
 ~~~~
 

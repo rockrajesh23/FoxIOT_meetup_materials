@@ -39,6 +39,7 @@ sudo apt-get install ansible
 
 * gpio 
 * numpy
+* beautifulsoup
 
 ## Installation of pi modules 
 ~~~~
@@ -51,6 +52,12 @@ pip uninstall RPi.GPIO
 sudo apt-get install python-numpy
 or
 pip install numpy
+
+# beautifulsoup
+apt-get install python-bs4
+or 
+pip install beautifulsoup4
+
 ~~~~
 
 ## Pre-requistes
